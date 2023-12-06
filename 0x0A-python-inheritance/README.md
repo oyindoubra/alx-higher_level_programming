@@ -1,0 +1,3 @@
+0x0a python
+INHERITANCE
+
