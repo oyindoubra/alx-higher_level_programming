@@ -1,2 +1,3 @@
---Put a new row in table
+--Script that put a new row in table
 INSERT INTO `first_table` (`id`, `name`) VALUES (89, "Best School");
+
